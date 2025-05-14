@@ -4,12 +4,13 @@
 
 <!-- 헤더 이미지 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Hi%20👋%20I'm%20rlaban12!&fontAlign=50&fontAlignY=40&fontSize=40" />
+![Image](https://github.com/user-attachments/assets/cde2d769-0247-410c-ba0a-6f24f76151ab)
 
 <!-- 방문자 수 + 팔로워 수 -->
 ![](https://img.shields.io/github/followers/rlaban12?style=social)
 
 
-<img src="./치킨.gif" width="300px" />
+![Image](https://github.com/user-attachments/assets/cde2d769-0247-410c-ba0a-6f24f76151ab)
 
 ---
 
