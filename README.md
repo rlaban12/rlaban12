@@ -3,7 +3,7 @@
 <div align="center">
 
 <!-- 헤더 이미지 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Hi%20👋%20I'm%20Soon9!&fontAlign=50&fontAlignY=40&fontSize=40" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Hi%20👋%20I'm%20rlaban12!&fontAlign=50&fontAlignY=40&fontSize=40" />
 
 <!-- 방문자 수 + 팔로워 수 -->
 ![](https://img.shields.io/github/followers/rlaban12?style=social)
