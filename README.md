@@ -9,9 +9,17 @@
 <!-- 방문자 수 + 팔로워 수 -->
 ![](https://img.shields.io/github/followers/rlaban12?style=social)
 
-
+<!-- 트랄레로 트랄라 사진 -->
 ![Image](https://github.com/user-attachments/assets/cde2d769-0247-410c-ba0a-6f24f76151ab)
 
+<!-- 선생님이 준 것 -->
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=hyerin11&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/hyerin11"
+  width="600"
+  height="300"
+/>
+</a>
 ---
 
 ### 💬 소개
