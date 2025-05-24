@@ -85,10 +85,10 @@ Java와 Spring 기반의 **클린코드**, **안정성 높은 서버 개발**을
 
 ### 📊 GitHub Stats
 
-[![rlaban12's GitHub stats](https://github-readme-stats.vercel.app/api?username=soongu&show_icons=true&hide=contribs,issues&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soongu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![rlaban12's GitHub stats](https://github-readme-stats.vercel.app/api?username=rlaban12&show_icons=true&hide=contribs,issues&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rlaban12&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=soongu&theme=tokyonight&margin-w=10&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=rlaban12&theme=tokyonight&margin-w=10&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ---
