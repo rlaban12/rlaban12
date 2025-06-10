@@ -11,7 +11,7 @@
 <!-- 선생님이 준 것 -->
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=hyerin11&utm_content=farm">
 <img
-  src="https://render.gitanimals.org/farms/hyerin11"
+  src="https://render.gitanimals.org/farms/rlaban12"
   width="600"
   height="300"
 />
